@@ -31,6 +31,8 @@ def wordFinder(letterIP):
     while letterIP < 5 or letterIP > 10:
         letterIP = int(input('(Please enter range from 5 to 10): '))
     else:
+        global turns
+        turns = letterIP + 5
         print('Ok! Searching...')
         time.sleep(2)
         print('Here is your word')
@@ -51,7 +53,6 @@ def wordFinder(letterIP):
 wordFinder(letterIP)
 
 time.sleep(1)
-turns = letterIP + 5
 print('Your Turns: ', turns)
 guess = ''
 
