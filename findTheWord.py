@@ -1,6 +1,6 @@
 '''
 Hey there, feel free to implement your logic and also let me know how do you like it...
-Also follow mi on Twitter:- @DevDCtech
+Also follow mi on Twitter:- @iamchaitanya99
 '''
 
 # Here are the libraries we import
