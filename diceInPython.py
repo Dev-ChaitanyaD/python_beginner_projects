@@ -1,6 +1,5 @@
 '''
 Hey there, feel free to implement your logic and also let me know how do you like it...
-Also follow me on Twitter:- @iamchaitanya99
 '''
 
 # Here we used turtle module to create window for our program
